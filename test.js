@@ -13,3 +13,5 @@ function test() {
 }
 
 test();
+
+test();
